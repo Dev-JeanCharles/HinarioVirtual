@@ -1,3 +1,1 @@
 # HinarioVirtual
-
-# Parte 6
